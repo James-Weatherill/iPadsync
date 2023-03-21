@@ -1,0 +1,59 @@
+html body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #F3F3F3;
+}
+
+div {
+    display: block;
+    width: 100%;
+    height: 50px;
+}
+
+.test {
+    position: absolute;
+    margin-top: -2px;
+    margin-left: 9px;
+    width: 45px;
+    height: 50px;
+    filter: contrast(90%);
+}
+
+.dropdowns p {
+    display: inline-block;
+    font-family: futura-pt,Avenir,-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.tag {
+    text-align: center;
+    width: 41px
+}
+
+.live {
+    padding-left: 55px;
+    padding-top: 5px;
+}
+
+.more {
+    color: #FF764D
+}
+
+.gap {
+    width: 34%;
+}
+
+.try {
+    text-align: center;
+    width: 90px;
+    color: blue
+}
+
+.login {
+    padding-left: 10px;
+    width: 100px;
+}
